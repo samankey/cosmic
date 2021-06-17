@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       cosmic 흥해라
     </div>
+    <a>눌러보세용</a>
   );
 }
 
