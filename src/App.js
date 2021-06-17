@@ -1,6 +1,7 @@
-import './App.css';
+import "./App.css";
 
 function App() {
+<<<<<<< HEAD
   return (
     <div className="App">
       cosmic 흥해라
@@ -8,6 +9,9 @@ function App() {
     </div>
     
   );
+=======
+  return <p>test</p>;
+>>>>>>> e90a272ebeda1e20f6dc30ce8d0c6692dfb7c114
 }
 
 export default App;
